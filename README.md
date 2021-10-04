@@ -11,7 +11,7 @@ Parameters
 
 Returns
 
-String: The resulting HEX string.
+1. String: The resulting HEX string.
 
 Use below steps,
 
