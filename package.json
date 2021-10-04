@@ -1,0 +1,8 @@
+{
+  "name": "eth-decimal-to-hex",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.17.1",
+    "web3-utils": "^1.6.0"
+  }
+}
